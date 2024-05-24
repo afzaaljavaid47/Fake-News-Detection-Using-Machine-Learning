@@ -1,0 +1,29 @@
+form 
+{
+width: 100%;
+padding: 20px;
+background: #fff;
+box-shadow: 0 2px 5px #ccc; 
+}
+input:hover, textarea:hover{
+outline: none;
+border: 1px solid #095484;
+}
+#submit-button:hover 
+{
+background-color: green;
+}
+#scroll-text{
+    font-size: 17px;
+}
+@media screen and (max-width: 600px) {
+    #header-txt {
+      font-size: 30px;
+    }
+}
+#box{
+  width: 100%;
+  padding: 30px;
+  background: #fff;
+  box-shadow: 0 2px 5px #ccc; 
+}
